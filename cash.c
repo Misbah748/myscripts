@@ -9,7 +9,9 @@ printf("every code begins with Hello World how are you ?.....%i\n",i);
 int j=200;
 int c=90;
 
-printf("second step is performing........ addition........... %i\n",j);
+i=j+c;
+
+printf("second step is performing........ addition........... %i\n",i);
 
 
 
