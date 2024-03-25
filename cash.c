@@ -5,7 +5,7 @@ int main()
 {
 
 int i=0;
-printf("every code begins with Hello World how are you ?.....%i\n",i);
+printf("every code begins with Hello World.....%i\n",i);
 int j=0;
 
 }
